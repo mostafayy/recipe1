@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mostafayy/recipe1.git/static/css/main.632ee483.css",
+    "main.js": "/mostafayy/recipe1.git/static/js/main.1d4b6e7e.js",
+    "index.html": "/mostafayy/recipe1.git/index.html",
+    "main.632ee483.css.map": "/mostafayy/recipe1.git/static/css/main.632ee483.css.map",
+    "main.1d4b6e7e.js.map": "/mostafayy/recipe1.git/static/js/main.1d4b6e7e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.632ee483.css",
+    "static/js/main.1d4b6e7e.js"
+  ]
+}
